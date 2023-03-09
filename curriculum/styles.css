@@ -1,0 +1,43 @@
+.cv-body{
+ padding-left: 50px;
+ margin-left: 50px;
+ border-color: #2eb370;
+ border-style:inset ;
+ position: relative;
+
+ 
+}
+
+
+.iconos{
+    padding-right:5px;
+    display: flex;
+    justify-content: space-evenly;
+    
+
+
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+    font-weight: 700;
+}
+
+i{
+    padding-left: 5px;
+}
+
+.datos-personales{
+    
+    position: absolute;
+    bottom: 600px;
+    right:600px;
+    border-style:dotted;
+    padding: 20px;
+
+
+}
+#dp-titulo{
+    text-align: center;
+}
