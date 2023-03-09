@@ -30,13 +30,26 @@ i{
 
 .datos-personales{
     
-    position: absolute;
-    bottom: 600px;
-    right:600px;
+    position:relative;
+    width: 50%;
+    margin-left: 30rem;
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+    
     border-style:dotted;
-    padding: 20px;
+    padding: 5px;
 
 
+}
+.sobre-mi{
+    position: relative;
+    width: 45%;
+    padding: 10px;
+    border-style:dotted;
+}
+
+.formacion{
+    position: fixed;
 }
 #dp-titulo{
     text-align: center;
